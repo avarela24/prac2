@@ -62,10 +62,10 @@ public class Date {
    */
   
   // Constructor modified by the owner
-  public Date(int dia, int mes, int año) {
+  public Date(int dia, int mes, int year) {
     this.day = dia;
     this.month = mes;
-    this.year = año;
+    this.year = year;
   }
 
   /**
