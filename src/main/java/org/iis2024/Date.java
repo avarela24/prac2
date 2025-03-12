@@ -25,8 +25,6 @@ public class Date {
     System.out.println("Method added by the owner");
   }
 
-
-
   /**
    * Retrieves the day component of this date.
    *
@@ -44,7 +42,7 @@ public class Date {
   public int getMonth() {
     return month;
   }
-
+  
   /**
    * Retrieves the year component of this date.
    *
