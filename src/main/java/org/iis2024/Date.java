@@ -23,7 +23,6 @@ public class Date {
   public void methodAddedByOwner(){
     System.out.println("Method added by the owner");
   }
-
   /**
    * Retrieves the day component of this date.
    *
@@ -41,7 +40,7 @@ public class Date {
   public int getMonth() {
     return month;
   }
-
+  private int addedByContributor;
   /**
    * Retrieves the year component of this date.
    *
